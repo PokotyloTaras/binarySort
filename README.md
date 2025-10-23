@@ -1,1 +1,1 @@
-# binarySort
+# сортування binary способом
